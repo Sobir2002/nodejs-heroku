@@ -68,7 +68,7 @@ const Ban			=		mongo.model("7Ban", new mongo.Schema({
 
 const Telegram		=		require("node-telegram-bot-api");
 const bot			=		new Telegram(
-	"1505839980:AAHmVw-6McrfDy8GhZL-NJoWY-sKacAIur8",
+	"1896674160:AAFw9NxVbowqUlgNjnSyc7_4qT64naVkBd4",
 	{ polling: true }
 );
 
